@@ -1,6 +1,6 @@
 ```js
 data.query = {
-  token: // encrypted token, session id as salt
+  token: "abc", // user's token, validates all requests
   type: [game_update, purchase, chat], // types are subject to change
   public: {
     status: [idle, in_game, in_shop, invisible],

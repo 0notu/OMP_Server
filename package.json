@@ -4,8 +4,8 @@
   "description": "The online servers for Dinomyte",
   "main": "server.js",
   "scripts": {
-    "test": "node ./testing/testClient.js",
-    "start": "node server.js"
+    "test": "node ./server/testing/testClient.js",
+    "start": "node ./server/server.js"
   },
   "repository": {
     "type": "git",
