@@ -1,0 +1,23 @@
+{
+  "name": "dinomyte-server",
+  "version": "1.0.0",
+  "description": "The online servers for Dinomyte",
+  "main": "server.js",
+  "scripts": {
+    "test": "node ./testing/testClient.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/realnotU/Dinomyte-Server.git"
+  },
+  "author": "notU",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/realnotU/Dinomyte-Server/issues"
+  },
+  "homepage": "https://github.com/realnotU/Dinomyte-Server#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
+}
