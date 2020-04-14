@@ -1,5 +1,5 @@
-# Dinomyte's servers
+# OMP server
 
-This is the building blocks of Dinomyte's servers.
+This is a basic online multiplayer server.
 
 For help, check out [the docs](./docs)
