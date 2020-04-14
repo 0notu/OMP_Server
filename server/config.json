@@ -1,4 +1,5 @@
 {
-  "name": "DinoMyte Server System",
+  "name": "Dinomyte Server",
+  "url": "http://localhost",
   "port": 1337
 }

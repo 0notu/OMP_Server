@@ -12,8 +12,9 @@ data.query = {
     }
   },
   private: {
+    party_token: "abc", // this is used to group users into games
     chat: {
-      time: 0, // data_time
+      time: 0, // date-time
       content: "" // chat content
     },
 
