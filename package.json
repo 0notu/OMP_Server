@@ -1,18 +1,18 @@
 {
   "name": "dinomyte-server",
   "version": "1.0.0",
-  "description": "The online servers for Dinomyte",
-  "main": "server.js",
+  "description": "Online multiplayer serverz",
+  "main": "./src/server/brainiac.js",
   "scripts": {
-    "test": "node ./server/testing/testClient.js",
-    "start": "node ./server/brainiac.js"
+    "test": "node ./src/server/testing/testClient.js",
+    "start": "node ./src/server/brainiac.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/realnotU/Dinomyte-Server.git"
   },
   "author": "notU",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/realnotU/Dinomyte-Server/issues"
   },
